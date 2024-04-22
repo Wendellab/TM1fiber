@@ -1,0 +1,13 @@
+{
+	"n_targets": 74446,
+	"n_bootstraps": 0,
+	"n_processed": 41912128,
+	"n_pseudoaligned": 36478897,
+	"n_unique": 30468632,
+	"p_pseudoaligned": 87.0,
+	"p_unique": 72.7,
+	"kallisto_version": "0.46.1",
+	"index_version": 10,
+	"start_time": "Sat May 21 18:18:32 2022",
+	"call": "./../kallisto quant -t 20 -i /work/LAS/jfw-lab/corrinne/JJ_Purdue/pseudoAD1/AtDt.idx -o AD1_TM1_plant18_06DPA /work/LAS/jfw-lab/corrinne/JJ_Purdue/AD1reference/trimmed_reads/AD1_TM1_plant18_06DPA.R1.fq.gz /work/LAS/jfw-lab/corrinne/JJ_Purdue/AD1reference/trimmed_reads/AD1_TM1_plant18_06DPA.R2.fq.gz"
+}

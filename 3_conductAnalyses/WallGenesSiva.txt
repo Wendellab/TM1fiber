@@ -1,0 +1,236 @@
+shared_name	name	involvement
+Gorai.001G015900	GhTBL30-1	xylan backbone synthesis
+Gorai.001G040500 	GhCSLC05-1	Xyloglucan
+Gorai.001G044700	GhCESA7-1	SCW
+Gorai.001G058700	GhGXMT1-1	xylan-side chain synthesis
+Gorai.001G066600	GhRRT1-1	RG-I backbone synthesis
+Gorai.001G072600	GhFUT6-1	AGP synthesis
+Gorai.001G072600 	GhFUT1-2	Xyloglucan
+Gorai.001G079300	GhAGP:GALT4-1	AGP synthesis
+Gorai.001G083200	GhAXY9-1	Xyloglucan
+Gorai.001G104800	GhGAUT8-1	homogalacturonan synthesis
+Gorai.001G116900	GhTBL44-1	AGP/homogalacturonan synthesis
+Gorai.001G121600	GhGALT29A-1	AGP synthesis
+Gorai.001G142100	GhGALT7-1	homogalacturonan synthesis
+Gorai.001G172800	GhGAUT1-1	homogalacturonan synthesis
+Gorai.001G188500	GhGAUT8-2	homogalacturonan synthesis
+Gorai.001G205700	GhGAUT9-1	homogalacturonan synthesis
+Gorai.001G206300	GhRRT1-2	RG-I backbone synthesis
+Gorai.001G238100	GhCESA4-1	SCW
+Gorai.001G243400	GhGAUT6-1	homogalacturonan synthesis
+Gorai.001G247300	GhTBL3-1	AGP/homogalacturonan synthesis
+Gorai.002G013600	GhGAUT3-1	homogalacturonan synthesis
+Gorai.002G062000	GhAGP:GALT1-1	AGP synthesis
+Gorai.002G082100	GhGAUT12-2	homogalacturonan synthesis
+Gorai.002G111000	GhAXY9-3	Xyloglucan
+Gorai.002G129800	GhGALT1-1	homogalacturonan synthesis
+Gorai.002G137600	GhIRX9-1	xylan backbone synthesis
+Gorai.002G150300 	GhCESA6-1	PCW
+Gorai.002G154200	GhTBR-1	AGP/homogalacturonan synthesis
+Gorai.002G163200	GhGXMT1-15	xylan-side chain synthesis
+Gorai.002G183200	GhGXMT1-14	xylan-side chain synthesis
+Gorai.002G210000	GhRRT10-1	RG-I backbone synthesis
+Gorai.002G212400	GhCGR2-1	homogalacturonan synthesis
+Gorai.002G223800	GhTBR-2	AGP/homogalacturonan synthesis
+Gorai.002G266200	GhTBL34-1	xylan backbone synthesis
+Gorai.003G026800	GhIRX14-1	xylan backbone synthesis
+Gorai.003G032800	GhCGR2-2	homogalacturonan synthesis
+Gorai.003G032900	GhCGR2-3	homogalacturonan synthesis
+Gorai.003G049300 	GhCESA6-2	PCW
+Gorai.003G071200	GhAGP:GALT4-3	AGP synthesis
+Gorai.003G092600 	GhCESA3-1	PCW
+Gorai.003G098400 	GhXXT3-1	Xyloglucan
+Gorai.003G103300	GhRRT1-3	RG-I backbone synthesis
+Gorai.003G109000	GhGSL08-1	callose synthesis
+Gorai.003G120500	GhGXMT1-13	xylan-side chain synthesis
+Gorai.003G156200	GhAGP:HPGT1-1	AGP synthesis
+Gorai.003G169500	GhMUR3-4	Xyloglucan
+Gorai.004G009500	GhGALT29A-3	AGP synthesis
+Gorai.004G018200	GhGSL10-1	callose synthesis
+Gorai.004G042500	GhQUA3-1	homogalacturonan synthesis
+Gorai.004G051000	GhIRX14-4	xylan backbone synthesis
+Gorai.004G051100	GhIRX14-3	xylan backbone synthesis
+Gorai.004G052700 	GhXXT2-2	Xyloglucan
+Gorai.004G057400	GhCESA4-2	SCW
+Gorai.004G065900	GhCESA3-2	PCW
+Gorai.004G092500	GhGSL12-1	callose synthesis
+Gorai.004G092600	GhGSL12-2	callose synthesis
+Gorai.004G155600	GhGAUT1-2	homogalacturonan synthesis
+Gorai.004G172400	GhCESA3-3	PCW
+Gorai.004G211300 	GhXUT-1	Xyloglucan
+Gorai.004G219100	GhGAUT6-4	homogalacturonan synthesis
+Gorai.004G257200	GhARAD1-2	AGP synthesis
+Gorai.004G268200	GhAGP:GALT6-1	AGP synthesis
+Gorai.004G292900	GhAGP:HPGT1-5	AGP synthesis
+Gorai.005G042700	GhGSL01-1	callose synthesis
+Gorai.005G043100	GhGSL01-2	callose synthesis
+Gorai.005G060400 	GhXXT2-1	Xyloglucan
+Gorai.005G069600	GhAGP:GALT3-1	AGP synthesis
+Gorai.005G097300	GhIRX9-4	xylan backbone synthesis
+Gorai.005G098600	GhCSLC12-3	Xyloglucan
+Gorai.005G129100	GhGAUT7-1	homogalacturonan synthesis
+Gorai.005G142700	GhRRT4-1	RG-I backbone synthesis
+Gorai.005G145000	GhQUA2-4	homogalacturonan synthesis
+Gorai.005G166800	GhGXMT1-12	xylan-side chain synthesis
+Gorai.005G178600	GhRAY1	AGP synthesis
+Gorai.005G185000	GhTBR-5	AGP/homogalacturonan synthesis
+Gorai.005G187600	GhGALT9-1	homogalacturonan synthesis
+Gorai.005G189000	GhAGP:GALT7-1	AGP synthesis
+Gorai.005G197500	GhIRX10-1	xylan backbone synthesis
+Gorai.005G201500	GhGSL05-1	callose synthesis
+Gorai.005G236300	GhGXMT1-11	xylan-side chain synthesis
+Gorai.005G267400	GhARAD1-1	AGP synthesis
+Gorai.006G025900	GhGlcAT14A-1	AGP synthesis
+Gorai.006G028400 	GhCSLC04-1	Xyloglucan
+Gorai.006G057500	GhXAT-1	xylan-side chain synthesis
+Gorai.006G057600	GhXAT-5	xylan-side chain synthesis
+Gorai.006G057700	GhXAT-4	xylan-side chain synthesis
+Gorai.006G057800	GhXAT-3	xylan-side chain synthesis
+Gorai.006G087300	GhRGI:GalAT1-1	RG-I backbone synthesis
+Gorai.006G138000	GhGALS1-1	Galactan backbone synthesis
+Gorai.006G168500	GhIRX9L-3	xylan backbone synthesis
+Gorai.006G180100	GhRRT9-1	RG-I backbone synthesis
+Gorai.006G185100	GhTBL35-1	xylan backbone synthesis
+Gorai.006G204700	GhGALT31A-2	AGP synthesis
+Gorai.006G208900	GhAGP:HPGT1-4	AGP synthesis
+Gorai.006G236100	GhGAUT7-2	homogalacturonan synthesis
+Gorai.006G272100	GhGXMT1-10	xylan-side chain synthesis
+Gorai.007G009300 	GhGALT-1	Xyloglucan
+Gorai.007G014300	GhAGP:HPGT1-3	AGP synthesis
+Gorai.007G021900	GhRRT5-1	RG-I backbone synthesis
+Gorai.007G040000	GhGAUT11-1	homogalacturonan synthesis
+Gorai.007G040500	GhRRT1-4	RG-I backbone synthesis
+Gorai.007G042800	GhGXMT1-9	xylan-side chain synthesis
+Gorai.007G055100	GhGXMT1-8	xylan-side chain synthesis
+Gorai.007G064800	GhGUX1-1	xylan-side chain synthesis
+Gorai.007G077200	GhAXY4-1	Xyloglucan
+Gorai.007G078400	GhGlcAT14A-3	AGP synthesis
+Gorai.007G081500	GhGAUT13-1	homogalacturonan synthesis
+Gorai.007G093500	GhGAUT1-3	homogalacturonan synthesis
+Gorai.007G095900	GhQUA3-2	homogalacturonan synthesis
+Gorai.007G125600	GhGALT7-2	homogalacturonan synthesis
+Gorai.007G128800	GhXXT2-3	Xyloglucan
+Gorai.007G142400	GhGAUT6-5	homogalacturonan synthesis
+Gorai.007G150100	GhMUR3-1	Xyloglucan
+Gorai.007G186900	GhAXY4-3	Xyloglucan
+Gorai.007G188500	GhAXY9-2	Xyloglucan
+Gorai.007G207000	GhGALT2-2	homogalacturonan synthesis
+Gorai.007G216600	GhGXMT1-7	xylan-side chain synthesis
+Gorai.007G216800	GhIRX14-2	xylan backbone synthesis
+Gorai.007G227300	GhCGR2-4	homogalacturonan synthesis
+Gorai.007G296600	GhGUX4-1	xylan-side chain synthesis
+Gorai.007G323000	GhGlcAT14A-4	AGP synthesis
+Gorai.007G334800	GhGSL02-1	callose synthesis
+Gorai.007G359700	GhGALS1-2	Galactan backbone synthesis
+Gorai.007G375700	GhGlcAT14C-1	AGP synthesis
+Gorai.007G378600	GhTBL34-2	xylan backbone synthesis
+Gorai.008G052100	GhGALS2-1	Galactan backbone synthesis
+Gorai.008G059800	GhGAUT9-2	homogalacturonan synthesis
+Gorai.008G070000	GhGALT2-3	homogalacturonan synthesis
+Gorai.008G078100	GhGXMT1-6	xylan-side chain synthesis
+Gorai.008G100100	GhCESA6-3	PCW
+Gorai.008G100200	GhCESA9-1	PCW
+Gorai.008G107800	GhGAUT1-4	homogalacturonan synthesis
+Gorai.008G142800	GhGALT7-3	homogalacturonan synthesis
+Gorai.008G156000	GhIRX10-3	xylan backbone synthesis
+Gorai.008G165400	GhGXMT1-3	xylan-side chain synthesis
+Gorai.008G179400	GhRRT4-2	RG-I backbone synthesis
+Gorai.008G195000 	GhXXT3-2	Xyloglucan
+Gorai.008G211000	GhIRX10L-2	xylan backbone synthesis
+Gorai.008G260300	GhGALT31A-1	AGP synthesis
+Gorai.008G283000 	GhGALT-2	Xyloglucan
+Gorai.008G287900	GhXAT-2	xylan-side chain synthesis
+Gorai.009G009500 	GhCESA1-1	PCW
+Gorai.009G009700	GhCESA7-2	SCW
+Gorai.009G010200	GhCESA1-2	PCW
+Gorai.009G066500 	GhCSLC05-2	Xyloglucan
+Gorai.009G086400	GhGALT29A-2	AGP synthesis
+Gorai.009G094500	GhGALT3-1	homogalacturonan synthesis
+Gorai.009G098600	GhMUR3-3	Xyloglucan
+Gorai.009G157200	GhRWA1-1	xylan backbone synthesis
+Gorai.009G161200	GhCESA8-1	SCW
+Gorai.009G169400	GhRGI:GalAT1-2	RG-I backbone synthesis
+Gorai.009G169700	GhGSL01-3	callose synthesis
+Gorai.009G178900	GhAGP:GALT5-3	AGP synthesis
+Gorai.009G185300	GhGAUT4-1	homogalacturonan synthesis
+Gorai.009G205300	GhGALT1-3	homogalacturonan synthesis
+Gorai.009G211400	GhGUX2-1	xylan-side chain synthesis
+Gorai.009G222300 	GhCSLC12-1	Xyloglucan
+Gorai.009G222600	GhCGR2-5	homogalacturonan synthesis
+Gorai.009G236100	GhQUA2-1	homogalacturonan synthesis
+Gorai.009G242100	GhAGP:GALT5-1	AGP synthesis
+Gorai.009G255100	GhCESA6-4	PCW
+Gorai.009G274300	GhGALT1-4	homogalacturonan synthesis
+Gorai.009G277600	GhCSLC12-4	Xyloglucan
+Gorai.009G280200	GhRRT6-1	RG-I backbone synthesis
+Gorai.009G280800	GhQUA2-2	homogalacturonan synthesis
+Gorai.009G284700	GhGUX1-4	xylan-side chain synthesis
+Gorai.009G291300	GhGXMT1-4	xylan-side chain synthesis
+Gorai.009G368400	GhAGP:GALT1-2	AGP synthesis
+Gorai.009G372400	GhTBL31-1	xylan backbone synthesis
+Gorai.010G012700	GhGALT1-5	homogalacturonan synthesis
+Gorai.010G019500	GhGUX2-2	xylan-side chain synthesis
+Gorai.010G028300	GhCSLC12-2	Xyloglucan
+Gorai.010G031000	GhIRX9-2	xylan backbone synthesis
+Gorai.010G038100	GhRRT6-2	RG-I backbone synthesis
+Gorai.010G039800	GhQUA2-3	homogalacturonan synthesis
+Gorai.010G046600	GhAGP:GALT5-2	AGP synthesis
+Gorai.010G087600	GhRRT7-1	RG-I backbone synthesis
+Gorai.010G089700	GhTBL30-4	xylan backbone synthesis
+Gorai.010G116400	GhAGP:HPGT1-2	AGP synthesis
+Gorai.010G120900 	GhCSLC05-3	Xyloglucan
+Gorai.010G134500	GhCESA6-5	PCW
+Gorai.010G153800	GhRGI:GalAT1-3	RG-I backbone synthesis
+Gorai.010G190800	GhGAUT4-2	homogalacturonan synthesis
+Gorai.010G194900	GhTBL32-1	xylan backbone synthesis
+Gorai.010G239500	GhRWA1-4	xylan backbone synthesis
+Gorai.010G255800	GhRGI:GalAT1-4	RG-I backbone synthesis
+Gorai.011G037900	GhCESA8-2	SCW
+Gorai.011G048300	GhAGP:GALT2-1	AGP synthesis
+Gorai.011G096200	GhGlcAT14C-3	AGP synthesis
+Gorai.011G096300	GhGlcAT14A-2	AGP synthesis
+Gorai.011G096900	GhGSL07-1	callose synthesis
+Gorai.011G116600	GhGUX1-3	xylan-side chain synthesis
+Gorai.011G119900	GhGSL02-2	callose synthesis
+Gorai.011G120300	GhGSL02-3	callose synthesis
+Gorai.011G152000	GhMUR3-2	Xyloglucan
+Gorai.011G202400	GhRWA1-3	xylan backbone synthesis
+Gorai.011G290400	GhTBL32-3	xylan backbone synthesis
+Gorai.012G036700	GhTBL30-3	xylan backbone synthesis
+Gorai.012G040000	GhGSL07-2	callose synthesis
+Gorai.012G049900	GhGAUT13-2	homogalacturonan synthesis
+Gorai.012G058400	GhGALT10-1	homogalacturonan synthesis
+Gorai.012G059500	GhAXY4-2	Xyloglucan
+Gorai.012G077200	GhESK1-1	xylan backbone synthesis
+Gorai.012G077300	GhTBL30-2	xylan backbone synthesis
+Gorai.012G077600	GhESK1-4	xylan backbone synthesis
+Gorai.012G100000	GhTBR-4	AGP/homogalacturonan synthesis
+Gorai.012G103300	GhGlcAT14C-2	AGP synthesis
+Gorai.012G110800	GhRRT9-2	RG-I backbone synthesis
+Gorai.012G115400	GhTBL3-2	AGP/homogalacturonan synthesis
+Gorai.012G116300	GhESK1-3	xylan backbone synthesis
+Gorai.012G118800	GhTBL35-2	xylan backbone synthesis
+Gorai.012G121200	GhAGP:GALT4-2	AGP synthesis
+Gorai.012G128700	GhGSL01-4	callose synthesis
+Gorai.012G131400	GhGAUT10-1	homogalacturonan synthesis
+Gorai.012G176100	GhGXMT1-5	xylan-side chain synthesis
+Gorai.012G187400	GhGSL07-3	callose synthesis
+Gorai.013G016700	GhTBL32-2	xylan backbone synthesis
+Gorai.013G017400	GhESK1-2	xylan backbone synthesis
+Gorai.013G063700	GhGAUT3-2	homogalacturonan synthesis
+Gorai.013G075600	GhGSL05-2	callose synthesis
+Gorai.013G088600	GhFUT6-2	AGP synthesis
+Gorai.013G088600 	GhFUT1-1	Xyloglucan
+Gorai.013G093300	GhQUA2-5	homogalacturonan synthesis
+Gorai.013G097700	GhRRT1-5	RG-I backbone synthesis
+Gorai.013G097800	GhRRT5-2	RG-I backbone synthesis
+Gorai.013G097900	GhRRT1-6	RG-I backbone synthesis
+Gorai.013G100100	GhGAUT15-1	homogalacturonan synthesis
+Gorai.013G105100	GhGUX1-2	xylan-side chain synthesis
+Gorai.013G123900	GhGUX4-2	xylan-side chain synthesis
+Gorai.013G137000	GhGXMT1-2	xylan-side chain synthesis
+Gorai.013G164000	GhGAUT12-1	homogalacturonan synthesis
+Gorai.013G166100	GhRWA1-2	xylan backbone synthesis
+Gorai.013G168800	GhGlcAT14A-5	AGP synthesis
+Gorai.013G199500 	GhCESA9-2	PCW
+Gorai.013G225200	GhRRT7-2	RG-I backbone synthesis
