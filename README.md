@@ -1,4 +1,4 @@
-# A high-resolution model of gene expression during Gossypium hirsutum (cotton) fiber development
+# A high-resolution model of gene expression during _Gossypium hirsutum_ (cotton) fiber development
 
 The code and files contained within this repo pertain to an analysis of the _Gossypium hirsutum_ cv TM1 transcriptome during fiber development (6 to 24 days post anthesis; DPA). In this project, RNA-seq was generated in triplicate for developing cotton fibers, sampling daily at midday. Differential gene expression (DGE) and network analyses were conducted, focusing on genes pertaining to cellulose synthesis and turgor pressure, both of which are important in developing cotton fibers. 
 
